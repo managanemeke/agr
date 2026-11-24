@@ -18,6 +18,14 @@ agr sync -g
 
 ---
 
+## install
+
+```bash
+uv tool install agr
+```
+
+---
+
 ## using
 
 1. [caveman][2]
