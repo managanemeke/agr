@@ -10,7 +10,7 @@ agr sync
 
 ---
 
-## globally
+## run-globally
 
 ```bash
 agr sync -g
