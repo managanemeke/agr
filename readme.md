@@ -8,6 +8,14 @@ agr sync
 
 ---
 
+## globally
+
+```bash
+agr sync -g
+```
+
+---
+
 ## using
 
 1. [caveman][2]
