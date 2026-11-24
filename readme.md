@@ -2,6 +2,8 @@
 
 Configuration for [agr][1].
 
+## run
+
 ```bash
 agr sync
 ```
