@@ -1,0 +1,6 @@
+tools = ["claude", "codex", "cursor"]
+
+dependencies = [
+    {handle = "juliusbrussee/caveman", type = "skill"},
+    {path = "./skills/long-dozen", type = "skill"},
+]

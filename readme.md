@@ -2,6 +2,10 @@
 
 Configuration for [agr][1].
 
+```bash
+agr sync
+```
+
 ---
 
 ## using
